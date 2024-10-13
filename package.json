@@ -1,6 +1,6 @@
 {
   "name": "string-bikini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Welcome to the String Bikini 3000! 🎉 The ONLY string processor in the universe that transforms ordinary strings into extraordinary classes, mystical instances, and prosperous properties! 🌟",
   "main": "index.js",
   "scripts": {
